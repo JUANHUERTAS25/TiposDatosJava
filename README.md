@@ -41,6 +41,6 @@ referencias a objetos del heap.
 
 ### Variable de referencia
 * Caracteriza una instancia de clase, es decir la dirección de donde está el objeto.
-* Contiene la direcció´n de un objeto, cuyo valor por defecto es null.
+* Contiene la dirección de un objeto, cuyo valor por defecto es null.
 * Durante una prueba e igualdad entre dos variables por referencia, son las direcciones de los objetos lo que se compara,y no el contenido de los objetos en si mismo.
 * Cuando se usa una referencia como argumento de un método es la dirección del objeto lo que se pasa, y no el objeto en si mismo.   
