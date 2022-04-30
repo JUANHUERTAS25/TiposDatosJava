@@ -19,5 +19,7 @@ public class TipoDatosJava{
         Punto p1 = new Punto(2, 3);
         System.out.println("Tipos de datos referenciados: ");
         System.out.println("Punto: " + p1);
+
+        
     }
 }
